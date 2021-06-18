@@ -1,0 +1,7 @@
+The version control system Git is the most popular. Git keeps track of the changes you make to files, allowing you to go back in time if necessary. Git also facilitates cooperation by allowing numerous contributors' modifications to be merged into a single repository.
+
+Git offers low-cost local branching, handy staging locations, and a variety of workflows. Git is free, open-source software that reduces costs by allowing developers to use it without having to pay for it. It aids in the creation of non-linear applications. Git allows several developers or teams to operate independently without interfering with each other's work.
+
+In today's web development environment, GitHub has become one of the few must-have platforms. It's a fantastic tool that makes your life easier, has the ability to set you apart from other web developers, and is home to some of the largest and most fascinating projects currently available.
+
+Students, teachers, and schools may use GitHub Education to get access to the tools and events they need to impact the future generation of software development. GitHub has made free partnerships with a variety of online learning and premium computer applications and softwares.

@@ -1,0 +1,7 @@
+To begin, GitHub is not the same as git. Many people get the two mixed up, which is understandable. GitHub is a service that hosts git-based projects.
+
+Git is a version control system (VCS) that simplifies the tracking of file changes. When editing a file, for example, git can assist you in determining what changed, who made the change, and why.
+
+It can be used to coordinate work among multiple people on a project and to track progress over time by saving "checkpoints." You could use it to keep track of changes to artwork and design files while writing an essay. Git isn't the only version control system available, but it's the most widely used. Many software professionals use git on a regular basis, and knowing how to utilize it might help you stand apart.
+
+GitHub allows developers to host their files in a ‘Git Repository’ so that other people can collaborate on projects with them, whether they are open for public contribution (open source) or closed for specific colleagues to work on a private project. The idea is not dissimilar to the way Google Docs lets you host your word processing and spreadsheet files and opens them up for collaboration, though developers do not work on the same documents together in real time or make changes directly in the browser.
